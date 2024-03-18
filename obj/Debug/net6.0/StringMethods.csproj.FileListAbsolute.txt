@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\bin\Debug\net6.0\StringMethods.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\bin\Debug\net6.0\StringMethods.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\bin\Debug\net6.0\StringMethods.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\bin\Debug\net6.0\StringMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\bin\Debug\net6.0\StringMethods.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\refint\StringMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\StringMethods.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\StringMethods\obj\Debug\net6.0\ref\StringMethods.dll
